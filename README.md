@@ -4,11 +4,12 @@ This repository contains SQL scripts and documentation for creating and managing
 
 ## **Files**
 - README.md: This file.
-- FoodserviceDB.sql: SQL script for creating the database, importing data, setting up primary and foreign key constraints, and executing queries.
+- foord_service.sql: SQL script for creating the database, importing data, setting up primary and foreign key constraints, and executing queries.
 - Restaurants.csv: Contains restaurant information.
 - Consumers.csv: Contains consumer information.
 - Ratings.csv: Contains rating information.
 - Restaurant_Cuisines.csv: Contains information on the cuisines served by each restaurant.
+- FoodserviceDB.bak: The database backup
 
 # Database Creation and Setup
 
