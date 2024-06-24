@@ -3,12 +3,12 @@
 This repository contains SQL scripts and documentation for creating and managing a database named FoodserviceDB. The database is designed to handle information on restaurants, consumers, and ratings, based on provided CSV files. The project includes creating the database, importing data, setting up relationships, and executing various queries and stored procedures.
 
 ## **Files**
-• README.md: This file.
-• FoodserviceDB.sql: SQL script for creating the database, importing data, setting up primary and foreign key constraints, and executing queries.
-• Restaurants.csv: Contains restaurant information.
-• Consumers.csv: Contains consumer information.
-• Ratings.csv: Contains rating information.
-• Restaurant_Cuisines.csv: Contains information on the cuisines served by each restaurant.
+- README.md: This file.
+- FoodserviceDB.sql: SQL script for creating the database, importing data, setting up primary and foreign key constraints, and executing queries.
+- Restaurants.csv: Contains restaurant information.
+- Consumers.csv: Contains consumer information.
+- Ratings.csv: Contains rating information.
+- Restaurant_Cuisines.csv: Contains information on the cuisines served by each restaurant.
 
 # Database Creation and Setup
 
