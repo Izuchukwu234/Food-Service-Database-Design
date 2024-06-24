@@ -13,20 +13,20 @@ This repository contains SQL scripts and documentation for creating and managing
 # Database Creation and Setup
 
 ## **The SQL script performs the following tasks:**
-• Creates the FoodserviceDB database.
-• Imports data from the CSV files into the database.
-• Adds primary and foreign key constraints to establish relationships between tables.
-• Provides a database diagram showing the relationships between the tables.
+- Creates the FoodserviceDB database.
+- Imports data from the CSV files into the database.
+- Adds primary and foreign key constraints to establish relationships between tables.
+- Provides a database diagram showing the relationships between the tables.
 
 ## **Tables and Relationships**
-• Restaurant: Contains restaurant details.
-• Consumers: Contains consumer details.
-• Ratings: Contains ratings given by consumers to restaurants.
-• Primary Key: Composite key on Consumer_ID and Restaurant_ID.
-• Foreign Keys: References Consumers and Restaurant.
-• Restaurant_Cuisines: Contains information on the cuisines served by each restaurant.
-• Primary Key: Composite key on Restaurant_ID and Cuisine.
-• Foreign Key: References Restaurant.
+- Restaurant: Contains restaurant details.
+- Consumers: Contains consumer details.
+- Ratings: Contains ratings given by consumers to restaurants.
+- Primary Key: Composite key on Consumer_ID and Restaurant_ID.
+- Foreign Keys: References Consumers and Restaurant.
+- Restaurant_Cuisines: Contains information on the cuisines served by each restaurant.
+- Primary Key: Composite key on Restaurant_ID and Cuisine.
+- Foreign Key: References Restaurant.
 
 ## **How to Use**
 1. Ensure you have SQL Server installed.
